@@ -1,1 +1,1 @@
-My firsREADME for 0x03-git
+Task 2 Coding fury 
